@@ -1,3 +1,4 @@
+import Footer from "./Footer";
 
 
 function Contacts() {
@@ -25,6 +26,7 @@ function Contacts() {
                     ))
                 }
             </ul>
+            <Footer/>
         </div>
     )
 };
